@@ -36,7 +36,8 @@ HTML, CSS, JavaScript
 Free API: fawazahmed0/currency-api
 
 🔹 Screenshots
-![Screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" width="350">
+
 
 
 
