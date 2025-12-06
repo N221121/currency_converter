@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 7rem;
+    /*background-color: rgba(238, 247, 165, 0.575);*/
+    /*background:linear-gradient(135deg, #fff7ad, #ffd6e8);*/
+    background: linear-gradient(135deg, #dff6ff, #e6eeff);;
+}
+.group{
+    /*background-color: white;*/
+    /*background: linear-gradient(135deg, #effdff, #daf3ff);*/
+    background: linear-gradient(135deg, #ffffff, #f4fbff);
+    padding:2rem;
+    border-radius: 1rem;
+    min-height:45vh;
+    width:40vh;   
+}
+form{
+    margin: 2rem 0 1rem 0
+}
+
+form,select,input,button{
+    width:100%;
+    border:none;
+    outline:none;
+    border-radius: 0.75rem;
+}
+form input{
+    border: 1px solid lightgray;
+    font-size: 1rem;
+    height: 3rem;
+    padding-left: 0.5rem;
+}
+.drop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
+.select-cont img{
+    max-width: 2rem;
+}
+
+.select-cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:6rem;
+    border-radius: 0.5rem;
+    border:1px solid lightgray;
+}
+.drop i{
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+.msg{
+    margin:2rem 0 2rem 0;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+form button{
+    font-size: 1rem;
+    min-height: 3rem;
+    /*background-color: blueviolet;*/
+    background: linear-gradient(45deg, #ff512f, #dd2476);
+    color: white;
+    cursor: pointer;
+}
+.amount input{
+    margin-top:0.5rem;
+}
+button:hover {
+  transform: scale(1.05);
+  background: linear-gradient(45deg, #dd2476, #ff512f);
+}
+
