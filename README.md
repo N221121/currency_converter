@@ -36,7 +36,8 @@ HTML, CSS, JavaScript
 Free API: fawazahmed0/currency-api
 
 🔹 Screenshots
-![Currency Converter Screenshot](assets/screenshot.png)
+![Currency Converter Screenshot](assets/Screenshot%202025-12-06%20223947.png)
+
 
 🔹 Contributing
 
