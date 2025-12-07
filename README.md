@@ -36,7 +36,7 @@ HTML, CSS, JavaScript
 Free API: fawazahmed0/currency-api
 
 🔹 Screenshots
-<img width="634" height="549" alt="screenshot" src="https://github.com/user-attachments/assets/404b5278-cee0-43c3-9ef6-e3ad305669aa" />
+![image alt](https://github.com/N221121/currency_converter/blob/d22db28ad7cc391c276e94bf5261863d84e48afc/assets/screenshot.png)
 
 
 🔹 Contributing
