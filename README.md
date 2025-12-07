@@ -36,11 +36,7 @@ HTML, CSS, JavaScript
 Free API: fawazahmed0/currency-api
 
 🔹 Screenshots
-![App Screenshot](https://github.com/N221121/currency_converter/blob/main/assets/screenshot.png?raw=true)
-
-
-
-
+<img width="634" height="549" alt="screenshot" src="https://github.com/user-attachments/assets/404b5278-cee0-43c3-9ef6-e3ad305669aa" />
 
 
 🔹 Contributing
